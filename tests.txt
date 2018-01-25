@@ -1,0 +1,5 @@
+P os.type == win
+N os.arch != 32
+P @upper(os.name) == WINDOWS 2K12
+P @count(os.users) > 20
+P os.java.version version != 8.3.104a

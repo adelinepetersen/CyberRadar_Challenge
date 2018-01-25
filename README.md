@@ -1,0 +1,2 @@
+README
+To run my CR challenge, run the CyberRadar_AP.py file (once downloaded, can be run from Terminal with command python CyberRadar_AP.py). Furthermore, the tests.txt file must be downloaded in the same directory as the CyberRadar_AP.py file to be successfully run. 
